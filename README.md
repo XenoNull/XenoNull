@@ -2,8 +2,8 @@
 
 <h1 align="center">Welcome to my github page's</h1>
 
-just a student who want to be malware developers
-
+<p align="center">just a student who want to be malware developers</p>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenoNull)](https://github.com/anuraghazra/github-readme-stats)
 
